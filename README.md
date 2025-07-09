@@ -1,16 +1,14 @@
-# aplikasi_pecel
+# Data Diri
 
-A new Flutter project.
+|  |  |
+|--|--|
+| Nama Lengkap | *Sigit Cahyo Tetuko Aji* | NIM | *22104410068* |
+| Nama Lengkap | *Firman Sukma Adininigrat* | NIM | *22104410079* |
+| Nama Lengkap | *Muhammad Nurifqi Praulan* | NIM | *22104410112* |
+| Kelas | TI-6B |
+| Dosen Pengampu | [Saiful Nur Budiman, S.Kom, M.Kom] |
+| Matakuliah | PENGEMBANGAN APLIKASI PERANGKAT BERGERAK |
 
-## Getting Started
+# PENGEMBANGAN APLIKASI PERANGKAT BERGERAK
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+PENGUMPULAN UAS PENGEMBANGAN APLIKASI PERANGKAT BERGERAK
