@@ -9,7 +9,7 @@
 | Nama Lengkap | *Muhammad Nurifqi Praulan* |
 | NIM | *22104410112* |
 | Kelas | TI-6B |
-| Dosen Pengampu | [Saiful Nur Budiman, S.Kom, M.Kom] |
+| Dosen Pengampu | *Saiful Nur Budiman, S.Kom, M.Kom* |
 | Matakuliah | PENGEMBANGAN APLIKASI PERANGKAT BERGERAK |
 
 # PENGEMBANGAN APLIKASI PERANGKAT BERGERAK
